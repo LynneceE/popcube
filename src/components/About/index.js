@@ -13,7 +13,7 @@ function About() {
                          <div class="flip-back">
                              <div class="content">
                                  <div class="header">
-                                 <img src= "./assets/images/prfl-pic.jpg"  alt=""/>
+                                 <img src= "../../assets/images/prfl-pic.jpg"  alt=""/>
                              <h2>Hi! I'm Lynnece</h2>
                              <div class="body">
                              <p>
