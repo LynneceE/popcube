@@ -5,10 +5,10 @@ function Nav() {
         <header>
             <a href='#' class="myheader">my<span>Portfolio</span></a>
             <ul>
-                <li> <a href='#'>About Me</a> </li>
-                <li> <a href='#'>Portfolio</a> </li>
-                <li> <a href='#'>Contact</a> </li>
-                <li> <a href='#'>Resume</a> </li>
+                <li> <a href='#about'>About Me</a> </li>
+                <li> <a href='#portfolio'>Portfolio</a> </li>
+                <li> <a href='#contact'>Contact</a> </li>
+                <li> <a href='#resume'>Resume</a> </li>
             </ul>
         </header>   
     )
