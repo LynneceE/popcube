@@ -15,7 +15,7 @@ function Nav(props) {
 
     return (
         <header>
-            <h2 class="myheader">my<span>Portfolio</span></h2>
+            <h2 className="myheader">my<span>Portfolio</span></h2>
             <ul>
                 <li> <a href='#about' onClick={() => setContactSelected(false)}>About Me</a></li>
                 <li> <a href='#portfolio' >Portfolio</a> </li>

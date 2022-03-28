@@ -20,7 +20,7 @@ function About() {
                                  I'm a <span><b>fullstack</b></span> web development student, 
                                  but backend development stole my heart! I've completed the <span><b>MERN</b></span> stack.
                                  I was born and raised in Miami, Fl but now live in San Antonio, Tx. I guess city life really isn't for me.
-                                 Feel free to look around, I've linked some of my work in the <span><b>Portfolio</b></span> tab.
+                                 Feel free to look around, the cards below link to some of my work.
                                  I'm looking forward to working with you!
 
 
