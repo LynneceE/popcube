@@ -19,12 +19,9 @@ function App() {
     <div>
       <Nav
 
-      portfolioSelected={portfolioSelected}
-      setPortfolioSelected={setPortfolioSelected}
       contactSelected={contactSelected}
       setContactSelected={setContactSelected}
-      aboutSelected={aboutSelected}
-      setAboutSelected={setAboutSelected}
+      
 
 
     
