@@ -1,8 +1,8 @@
 {
-  "homepage": "https://LynneceE.github.io/popcube",
   "name": "popcube",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://LynneceE.github.io/popcube",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
