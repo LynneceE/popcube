@@ -13,7 +13,7 @@ This application would be displayed on my resume for future employers to look at
 
 # Future Development
 
-There are some bugs to work out including conditional rendering and picture display. I plan on correcting those issues.
+There are some bugs to work out including conditional rendering and picture display. I plan on correcting those issues quickly
 
 
 # Deployment
